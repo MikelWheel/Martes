@@ -1,0 +1,7 @@
+.rainbow {
+    color: black;
+    transition: color 0.3s;
+}
+.rainbow:hover {
+    color: var(--hover-color);
+}
